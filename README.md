@@ -13,6 +13,13 @@ You can download the datasets from the UCI Machine Learning Repository and Kaggl
 
 The file [Syn_Obesity.ipynb](https://github.com/neetu4595/Syn_data/blob/main/Syn_Obesity.ipynb) provides the codes for generation of artificial data for Obesity dataset by using both the models i.e. TabSyn and TabDDPM. It also provides the deatils on the evaluation metrices and comparison between both models.
 
-Whereas, file [Syn_Diabetes.ipynb](https://github.com/neetu4595/Syn_data/blob/main/Syn_Diabetes.ipynb) provides the codes for generation of artificial data for diabetes dataset by using both models and also details of evaluation metrices used.
+File [Syn_Diabetes.ipynb](https://github.com/neetu4595/Syn_data/blob/main/Syn_Diabetes.ipynb) provides the codes for generation of artificial data for diabetes dataset by using both models and also details of evaluation metrices used.
 
+File [Syn_Adult.ipynb](https://github.com/neetu4595/Syn_data/blob/main/Syn_Adult.ipynb) provides the codes for generation of syntehtic data for Adult dataset by using both models and also details of evaluation metrices used.
+
+File [Syn_Heart.ipynb](https://github.com/neetu4595/Syn_data/blob/main/Syn_Heart.ipynb) provides the codes for generation of artificial data for Heart dataset by using both models and also details of evaluation metrices used.
+
+File [Syn_Insurance.ipynb](https://github.com/neetu4595/Syn_data/blob/main/Syn_Insurance.ipynb) provides the codes for generation of artificial data for Insurance dataset by using both models and also details of evaluation metrices used.
+
+File [Syn_Asthma.ipynb](https://github.com/neetu4595/Syn_data/blob/main/Syn_Asthma.ipynb) provides the codes for generation of artificial data for Asthma dataset by using both models and also details of evaluation metrices used.
 
